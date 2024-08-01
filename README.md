@@ -10,8 +10,11 @@ The Coffee Shop Sales Analysis Excel Dashboard is created to offer valuable insi
 Dashboard: https://github.com/Adarsh2701/Coffee-Shop-Sales-Analysis-Excel/blob/main/Coffee%20Shop%20Sales%20Analysis.png
 
 Sales Performance: Track total sales, revenue, and profit over time.
+
 Product Analysis: Analyze sales by product category, including bestsellers and underperformers.
+
 Customer Insights: View customer purchasing patterns and frequency.
+
 Sales Trends: Identify trends and patterns in sales data, including peak hours and seasonal variations.
 
 # Data Sources
